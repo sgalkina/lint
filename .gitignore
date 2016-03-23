@@ -1,0 +1,5 @@
+src/*.txt
+src/*.bin
+test_cases/*
+bin/*
+*.txt
